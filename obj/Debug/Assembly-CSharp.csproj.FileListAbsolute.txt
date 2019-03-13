@@ -1,0 +1,2 @@
+C:\Users\Souporno Ghosh\Documents\Solar System\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Souporno Ghosh\Documents\Solar System\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
